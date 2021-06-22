@@ -5,6 +5,8 @@ plugins:
   - jekyll-octicons
   - jekyll-github-metadata
   - jemoji
+  - jekyll-relative-links
+
 
 permalink: /:year/:month/:day/:title/
 
@@ -16,6 +18,12 @@ defaults:
     values:
       layout: "post"
 
+relative_links:
+  enabled: true
+  collections: true
+include:
+  - README.md
+ 
 #projects:
 #  sort_by: pushed
   # sort_by options:
