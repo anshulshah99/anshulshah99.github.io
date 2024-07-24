@@ -2,7 +2,7 @@
 title: "A Comparison of Student Behavioral Engagement in Traditional Live Coding and Active Live Coding Lectures"
 collection: publications
 permalink: /publication/live_coding_engagement
-excerpt: ''
+excerpt: 'excerpt'
 date: 2024-07-08
 venue: 'ITiCSE'
 paperurl: 'https://doi.org/10.1145/3649217.3653537'
