@@ -1,7 +1,7 @@
 ---
 title: "An Empirical Evaluation of Live Coding in CS1"
 collection: publications
-permalink: /publication/incremental_dev
+permalink: /publication/empirical_live_coding
 excerpt: 'excerpt'
 date: 2023-03-20
 venue: 'SIGCSE'
