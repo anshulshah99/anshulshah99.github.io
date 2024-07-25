@@ -3,7 +3,7 @@ title: "A Comparison of Student Behavioral Engagement in Traditional Live Coding
 collection: publications
 permalink: /publication/live_coding_engagement
 excerpt: 'excerpt'
-date: 2024-07-08
+date: 2024-07-09
 venue: 'ITiCSE'
 #paperurl: 'https://doi.org/10.1145/3649217.3653537'
 citation: '<b>Anshul Shah</b>, Fatimah Alhumrani, William G. Griswold, Leo Porter, and Adalbert Gerald Soosai Raj. 2024. 
