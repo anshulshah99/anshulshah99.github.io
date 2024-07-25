@@ -1,16 +1,16 @@
 ---
-title: "An Empirical Evaluation of Live Coding in CS1"
+title: "Understanding and Measuring Incremental Development in CS1"
 collection: publications
-permalink: /publication/icer_paper
+permalink: /publication/incremental_dev
 excerpt: 'excerpt'
-date: 2024-08-10
-venue: 'ICER'
-citation: '<b>Anshul Shah</b>, Emma Hogan, Vardhan Agarwal, John Driscoll, Leo Porter,
-                            William G. Griswold, and Adalbert Gerald Soosai Raj. 2023. <u>An Empirical Evaluation of Live 
-                            Coding in CS1</u>. In Proceedings of the 2023 ACM Conference on International Computing Education 
-                            Research - Volume 1 (ICER '23), Vol. 1. Association for Computing Machinery, New York, NY, 
-                            USA, 476–494. <a href="https://doi.org/10.1145/3568813.3600122"> 
-                                    https://doi.org/10.1145/3568813.3600122</a>'
+date: 2023-03-20
+venue: 'SIGCSE'
+citation: <b>Anshul Shah</b>, Michael Granado, Mrinal Sharma, John Driscoll, Leo Porter,
+            William G. Griswold, and Adalbert Gerald Soosai Raj. 2023. <u>Understanding
+            and Measuring Incremental Development in CS1</u>. In Proceedings of the 54th
+            ACM Technical Symposium on Computer Science Education V. 1 (SIGCSE 2023),
+            March 15–18, 2023, Toronto, ON, Canada. ACM, New York, NY, USA, 7 pages.
+            <a href="https://doi.org/10.1145/3545945.3569880">https://doi.org/10.1145/3545945.3569880</a>
 ---
 
 Test content
