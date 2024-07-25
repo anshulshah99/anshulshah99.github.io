@@ -3,7 +3,7 @@ title: "In-Person vs Blended Learning: An Examination of Grades, Attendance, Pee
 collection: publications
 permalink: /publication/blended_learning
 excerpt: 'excerpt'
-date: 2024-07-08
+date: 2024-07-07
 venue: 'ITiCSE'
 #paperurl: 'https://doi.org/10.1145/3649217.3653537'
 citation: '<b>Anshul Shah</b>, Vardhan Agarwal, William G. Griswold, Leo Porter, and Adalbert Gerald Soosai Raj. 2024. 
