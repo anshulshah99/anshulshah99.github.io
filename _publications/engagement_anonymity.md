@@ -11,7 +11,7 @@ Caroline Sih, Emma Hogan, Ismael Villegas Molina, Adalbert Gerald Soosai Raj, an
 2023. <u>Engagement and Anonymity in Online Computer Science Course Forums</u>. In Proceedings of 
 the 2023 ACM Conference on International Computing Education Research - Volume 1 (ICER '23), 
 Vol. 1. Association for Computing Machinery, New York, NY, USA, 48–62. 
-<a href="https://doi.org/10.1145/3568813.3600121"> https://doi.org/10.1145/3568813.3600121</a></p>'
+<a href="https://doi.org/10.1145/3568813.3600121"> https://doi.org/10.1145/3568813.3600121</a>'
 ---
 
 Test content
