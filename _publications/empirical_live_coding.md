@@ -1,11 +1,10 @@
 ---
 title: "An Empirical Evaluation of Live Coding in CS1"
 collection: publications
-permalink: /publication/empirical_live_coding
+permalink: /publication/icer_paper
 excerpt: 'excerpt'
 date: 2024-08-10
 venue: 'ICER'
-#paperurl: 'https://doi.org/10.1145/3649217.3653537'
 citation: '<b>Anshul Shah</b>, Emma Hogan, Vardhan Agarwal, John Driscoll, Leo Porter,
                             William G. Griswold, and Adalbert Gerald Soosai Raj. 2023. <u>An Empirical Evaluation of Live 
                             Coding in CS1</u>. In Proceedings of the 2023 ACM Conference on International Computing Education 
