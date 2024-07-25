@@ -1,5 +1,5 @@
 ---
-title: "Understanding and Measuring Incremental Development in CS1"
+title: "An Empirical Evaluation of Live Coding in CS1"
 collection: publications
 permalink: /publication/incremental_dev
 excerpt: 'excerpt'
