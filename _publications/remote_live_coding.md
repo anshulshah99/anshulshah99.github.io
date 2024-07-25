@@ -1,7 +1,7 @@
 ---
 title: "The Impact of a Remote Live-Coding Pedagogy on Student Programming Processes, Grades, and Lecture Questions Asked"
 collection: publications
-permalink: /publication/remote_live_coding_impact
+permalink: /publication/remote_live_coding
 excerpt: 'excerpt'
 date: 2023-08-10
 venue: 'ITiCSE'

@@ -1,7 +1,7 @@
 ---
 title: "Improving Students’ Programming Processes using Cognitive Apprenticeship Methods"
 collection: publications
-permalink: /publication/improving_programming_processes
+permalink: /publication/doctoral_consortium
 excerpt: 'excerpt'
 date: 2023-08-10
 venue: 'ICER'

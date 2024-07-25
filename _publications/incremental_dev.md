@@ -1,7 +1,7 @@
 ---
 title: "Understanding and Measuring Incremental Development in CS1"
 collection: publications
-permalink: /publication/incremental_development_CS1
+permalink: /publication/incremental_dev
 excerpt: 'excerpt'
 date: 2023-03-20
 venue: 'SIGCSE'

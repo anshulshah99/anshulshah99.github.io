@@ -1,7 +1,7 @@
 ---
 title: "Engagement and Anonymity in Online Computer Science Course Forums"
 collection: publications
-permalink: /publication/engagement_anonymity_forums
+permalink: /publication/engagement_anonymity
 excerpt: 'excerpt'
 date: 2023-08-10
 venue: 'ICER'
