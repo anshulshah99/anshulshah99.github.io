@@ -4,7 +4,7 @@ collection: publications
 permalink: /publication/empirical_live_coding
 excerpt: 'excerpt'
 date: 2023-03-20
-venue: 'SIGCSE'
+venue: 'ICER'
 citation: <b>Anshul Shah</b>, Michael Granado, Mrinal Sharma, John Driscoll, Leo Porter,
             William G. Griswold, and Adalbert Gerald Soosai Raj. 2023. <u>Understanding
             and Measuring Incremental Development in CS1</u>. In Proceedings of the 54th
