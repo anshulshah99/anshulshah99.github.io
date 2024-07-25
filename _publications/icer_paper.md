@@ -3,7 +3,7 @@ title: "An Empirical Evaluation of Live Coding in CS1"
 collection: publications
 permalink: /publication/empirical_live_coding
 excerpt: 'excerpt'
-date: 2023-03-20
+date: 2023-08-08
 venue: 'ICER'
 citation: <b>Anshul Shah</b>, Michael Granado, Mrinal Sharma, John Driscoll, Leo Porter,
             William G. Griswold, and Adalbert Gerald Soosai Raj. 2023. <u>Understanding
