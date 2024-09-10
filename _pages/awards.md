@@ -4,8 +4,6 @@ title: "Awards and Funding"
 permalink: /awards/
 ---
 
-# Funding
-
 ## NSF IUSE: EDU Grant (Engaged Student Learning Track) ($300,000), 2024
 
 With help from my advisors---Gerald Soosairaj and Bill Griswold---I planned and wrote a grant titled **[Improving Students’ Program Comprehension in Large Code Bases](https://www.nsf.gov/awardsearch/showAward?AWD_ID=2417531)**. The three phases of the grant are 1) identifying student struggles related to program comprehension, 2) designing a research-based, scalable curriculum to address those struggles, and 3) evaluating the curriculum on students’ program comprehension strategies and abilities. This grant was an important milestone in my PhD, as I was given the incredible opportunity to design a long-term research project and lead a grant-writing effort, mostly on my own, to secure funding for the project.
