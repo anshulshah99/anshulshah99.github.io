@@ -1,6 +1,6 @@
 ---
 layout: archive
-title: "Service and Outreach"
+# title: "Service and Outreach"
 permalink: /service/
 ---
 
