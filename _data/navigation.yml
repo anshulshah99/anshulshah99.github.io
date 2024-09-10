@@ -10,7 +10,7 @@ main:
     url: /service/
     
   - title: "Awards and Funding"
-    url: /markdown/
+    url: /awards/
 
   - title: "CV"
     url: /cv/
