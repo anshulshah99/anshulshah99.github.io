@@ -16,7 +16,7 @@ I completed the program in [Cohort 3](https://docs.google.com/spreadsheets/u/1/d
 
 # Mentoring
 
-## Research Mentoring
+## Student Research Mentoring
 
 I have been involved in mentoring both undergraduate and undergraduate students during my PhD. I try to approach mentoring with a philosophy of choosing students to mentor that I feel I can truly support in their career development. I tend not to select students to mentor who already have a very strong resume with loads of experience and projects. So far, I have mentored 12 students. Four of my students were part of the [ERSP research program at UCSD](https://sites.google.com/ucsd.edu/ersp/home), which aims to increase research opportunities for students from minority groups.
 
@@ -35,8 +35,14 @@ Here is a list of students I have mentored. An asterisk (*) denotes that I have 
 * Brandon Ngheim (ERSP)
 * Kevin Wu (ERSP)
 
-## Teaching Mentoring
+## Teaching Assistant Mentoring
 
 I have served two time as a mentor for graduate teaching assistants in the CSE599 course at UC San Diego. The course is required for first-time teaching assistants. During the course, groups of 5-6 students are paired with mentors who meet with the students weekly and discuss tips, techniques, and etiquette for serving as a teaching assistant.
 
 Both times I have served as a mentor, I advised students who were teaching assistants for upper-divison computer science courses.
+
+# Conference Reviewing
+  * PC Member--SIGCSE 2024: Computing Education Research Papers
+  * PC Member--ITICSE 2024: Computing Education Research Papers
+  * PC Member--ITICSE 2024: Experience Reports and Tools Papers
+  * PC Member--SIGCSE 2022: Experience Reports and Tools Papers
