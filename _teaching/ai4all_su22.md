@@ -8,4 +8,4 @@ term: Summer 22
 date: 2022-08-07
 ---
 
-I was a teaching assistant for an online course that taught data science to high schoolers. The course covered pandas, basic statistics, and basic machine learning.
+I was a teaching assistant for an online course that taught data science to high schoolers. The course covered pandas, basic statistics, and basic machine learning. As a teaching assistant, I created videos that introduced and demonstrated these data science concepts and held office hours to assist students on assignments.

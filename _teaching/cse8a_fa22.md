@@ -8,5 +8,5 @@ term: Fall 22
 date: 2022-12-07
 ---
 
-This is an introductory programming course taught in Python.
+I was a teaching assistant for a 600-person introductory computer science course co-taught by my advisor, Gerald Soosairaj, and Sorin Lerner at UC San Diego. As one of the graduate teaching assistants, I played a significant role in creating assignments, labs, discussions, and other course content. 
 
