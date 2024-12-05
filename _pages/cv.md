@@ -7,7 +7,7 @@ permalink: /cv/
 
 {% include base_path %}
 
-<p>Updated March 2024</p>
+<p>Updated December 2024</p>
 
 <object type="application/pdf"
         data="{{ base_path }}/files/CV.pdf"
