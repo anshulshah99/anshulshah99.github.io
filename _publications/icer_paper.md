@@ -12,5 +12,3 @@ citation: <b>Anshul Shah</b>, Emma Hogan, Vardhan Agarwal, John Driscoll, Leo Po
         USA, 476–494. <a href="https://doi.org/10.1145/3568813.3600122"> 
                 https://doi.org/10.1145/3568813.3600122</a>
 ---
-
-Test content

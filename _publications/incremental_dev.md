@@ -13,4 +13,3 @@ citation: <b>Anshul Shah</b>, Michael Granado, Mrinal Sharma, John Driscoll, Leo
             <a href="https://doi.org/10.1145/3545945.3569880">https://doi.org/10.1145/3545945.3569880</a>
 ---
 
-Test content

@@ -12,4 +12,3 @@ citation: '<b>Anshul Shah</b>, Vardhan Agarwal, William G. Griswold, Leo Porter,
                             <a href="https://doi.org/10.1145/3649217.3653604">https://doi.org/10.1145/3649217.3653604</a>'
 ---
 
-Test content

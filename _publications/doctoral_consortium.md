@@ -12,4 +12,3 @@ citation: <b>Anshul Shah</b>. 2023. <u>Improving Students’ Programming Process
                                     https://doi.org/10.1145/3568812.3603458 </a>
 ---
 
-Test content

@@ -7,8 +7,8 @@ redirect_from:
   - /about.html
 ---
 
-I am a fourth-year PhD student at UC San Diego advised by [Gerald Soosairaj](https://geraldsoosairaj.github.io/), [Leo Porter](https://leoporter.ucsd.edu/), and [Bill Griswold](https://cseweb.ucsd.edu/~wgg/). I work to improve student preparedness for a career in software engineering by studying program comprehension, code quality, and AI-assisted programming. Before starting my PhD at UC San Diego, I completed my Bachelor's degree at Duke University with a double-major in Computer Science and Statistics. 
+I am a fourth-year PhD candidate at UC San Diego advised by [Gerald Soosairaj](https://geraldsoosairaj.github.io/), [Leo Porter](https://leoporter.ucsd.edu/), and [Bill Griswold](https://cseweb.ucsd.edu/~wgg/). My research aims to enhance students' readiness for careers in software development by identifying and addressing student struggles with program comprehension, AI-powered programming, and code quality in large code bases. My work is interdisciplinary, encompassing elements of computing education, software engineering, and human-computer interaction (HCI).
 
-My experience as an instructor-of-record involved teaching an upper-division software engineering course that I helped create called "Working with Large Code Bases" and my teaching assistant experience involves introductory programming, data science, and software engineering courses. 
+As an instructor-of-record, I taught an upper-division software engineering course that I created with my advisor called "Working with Large Code Bases" that teaches students practical skills for modern software development. The [course website, including lecture slides](https://cse190largecodebases.github.io/sp24/), [lecture recordings](https://youtube.com/playlist?list=PLwefIyb96bAMPAcALGQQcTKhz7w0FsIL8&si=Ji-dwfHkjJC5mlTU), and [the free, online textbook](https://stepik.org/course/178674/syllabus) I created are all publicly available. My teaching assistant experience spans introductory programming, data science, and software engineering courses. 
 
 In my free time, I love to surf, play board games and geography games, and cook. 

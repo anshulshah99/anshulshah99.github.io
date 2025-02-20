@@ -12,5 +12,3 @@ citation: '<b>Anshul Shah</b>, Jerry Yu, Thanh Tong, and Adalbert Gerald Soosai 
             (SIGCSE 2024). Association for Computing Machinery, New York, NY, USA, 1209–1215. 
             <a href="https://doi.org/10.1145/3626252.3630755">https://doi.org/10.1145/3626252.3630755</a>'
 ---
-
-Test content

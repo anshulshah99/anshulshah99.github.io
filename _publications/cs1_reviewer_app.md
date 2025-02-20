@@ -12,4 +12,3 @@ citation: '<b>Anshul Shah</b>, Jonathan Liu, Kristin Stephens-Martinez, and Susa
                     <a href="https://doi.org/10.1145/3430665.3456333"> https://doi.org/10.1145/3430665.3456333</a>'
 ---
 
-Test content

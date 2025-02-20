@@ -12,4 +12,3 @@ citation: '<b>Anshul Shah</b>, Fatimah Alhumrani, William G. Griswold, Leo Porte
                             <a href="https://doi.org/10.1145/3649217.3653537">https://doi.org/10.1145/3649217.3653537</a>'
 ---
 
-Test content

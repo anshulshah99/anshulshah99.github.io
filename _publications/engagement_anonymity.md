@@ -13,4 +13,3 @@ citation: Mrinal Sharma, Hayden McTavish, Zimo Peng, <b>Anshul Shah</b>, Vardhan
                 <a href="https://doi.org/10.1145/3568813.3600121"> https://doi.org/10.1145/3568813.3600121</a>
 ---
 
-Test content

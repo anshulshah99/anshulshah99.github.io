@@ -13,4 +13,3 @@ citation: '<b>Anshul Shah</b>, Vardhan Agarwal, Michael Granado, John Driscoll, 
         <a href="https://doi.org/10.1145/3587102.3588846">https://doi.org/10.1145/3587102.3588846</a>'
 ---
 
-Test content

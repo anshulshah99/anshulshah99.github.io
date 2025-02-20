@@ -13,4 +13,3 @@ citation: '<b>Anshul Shah</b> and Adalbert Gerald Soosai Raj. 2024.
             <a href="https://doi.org/10.1145/3626252.3630769">https://doi.org/10.1145/3626252.3630769</a>'
 ---
 
-Test content
