@@ -18,28 +18,35 @@ I completed the program in [Cohort 3](https://docs.google.com/spreadsheets/u/1/d
 
 ### Student Research Mentoring
 
-I have been involved in mentoring both undergraduate and undergraduate students during my PhD. I try to approach mentoring with a philosophy of choosing students to mentor that I feel I can truly support in their career development. I tend not to select students to mentor who already have a very strong resume with loads of experience and projects. So far, I have mentored 12 students, and four of those were part of the [ERSP research program at UCSD](https://sites.google.com/ucsd.edu/ersp/home)!
+I have been involved in mentoring both undergraduate and graduate students during my PhD. I try to approach mentoring with a philosophy of choosing students to mentor that I feel I can truly support in their career development. I tend not to select students to mentor who already have a very strong resume with loads of experience and projects.
 
 Here is a list of students I have mentored. An asterisk (*) denotes that I have co-authored a paper with that student:
 
+Graduate Students
+* Annapurna Vadaparty (PhD)
+* Francis Geng (PhD)
+* Thomas Rexin (MS)*
+* Charles Wu (BS and MS) 
+
+Undergraduate Students
 * John Driscoll*
 * Michael Granado*
 * Fatimah Alhumrani*
-* Elena Tomson*
-* Charles Wu 
+* Elena Tomsom*
 * Anya Chernova*
 * Navyaa Gupta
-* Thomas Rexin
 * Gonzalo Allen-Perez*
 * Luis Millan*
 * Brandon Ngheim*
 * Kevin Wu*
+
 
 ### Teaching Assistant Mentoring
 
 I have served 3 times as a mentor for graduate teaching assistants in the CSE599 course at UC San Diego. The course is required for first-time teaching assistants. During the course, groups of 5-6 students are paired with mentors who meet with the students weekly and discuss tips, techniques, and etiquette for serving as a teaching assistant.
 
 ## Conference Reviewing
+  * PC Member--ICER 2025 Research Papers
   * PC Member--SIGCSE 2025: Computing Education Research Papers
   * PC Member--SIGCSE 2024: Computing Education Research Papers
   * PC Member--ITICSE 2024: Computing Education Research Papers
