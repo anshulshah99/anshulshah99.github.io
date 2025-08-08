@@ -4,6 +4,11 @@ title: "Awards and Funding"
 permalink: /awards/
 ---
 
+## Best Paper Award, ICER 2025
+
+I received the "Best Paper" award for my paper titled "Needles in a Haystack: Student Struggles with Working on Large Code Bases" at the Conference on International Computing Education Researcher (ICER) 2025.
+
+
 ## Doctoral Award for Excellence in Teaching, 2025
 
 I received this award from the CSE Department at UC San Diego because of my experience with creating the "Working with Large Code Bases" course, developing course materials (including [a free, online textbook](https://stepik.org/course/178674/syllabus)), and teaching the course as instructor of record. Feel free to check out my reflections on the course and student feedback in the ["Teaching" section of this website](https://anshulshah99.github.io/teaching/)!

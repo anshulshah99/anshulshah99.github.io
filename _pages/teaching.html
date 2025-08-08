@@ -9,12 +9,20 @@ author_profile: true
 
 <h2>Teaching Philosophy</h2>
 
-<p>My teaching is informed by the <a href="https://doi.org/10.5840/thinking19888129">Cognitive Apprenticeship learning theory.</a> Cognitive Apprenticeship encourages the instructor to <b>make their thinking visible to the students</b> and outlines six teaching methods to impart complex skills to students. My lectures engage these various teaching methods, which typically include live demonstrations of me completing tasks while verbalizing my thought process,in-class activities for students to "learn by doing," and peer discussions to allow students to learn from each other and feel included in the course. I also start most of my classes by playing a fun and interactive geography game with students (e.g., Geoguessr, Worldle, Globle, Travle, TimeGuesser, etc). I also love having conversations with my students outside of lecture, so I encourage students to stop by my office hours at some point in the term!</p>
+<p>My teaching is informed by the <a href="https://doi.org/10.5840/thinking19888129">Cognitive Apprenticeship learning theory.</a> Cognitive Apprenticeship encourages the instructor to <b>make their thinking visible to the students</b> and outlines six teaching methods to impart complex skills to students. My lectures engage these various teaching methods, which typically include live demonstrations of me completing tasks while verbalizing my thought process, in-class activities for students to "learn by doing," and peer discussions to allow students to learn from each other and feel included in the course. I also start most of my classes by playing a fun and interactive geography game with students (e.g., Geoguessr, Worldle, Globle, Travle, TimeGuesser, etc). I also love having conversations with my students outside of lecture, so I encourage students to stop by my office hours at some point in the term!</p>
 
-<h2>Teaching Experience</h2>
+<h2>Experience as Instructor of Record</h2>
 
 <p>I have written a brief description and reflection for each of the teaching experiences below. You can see these descriptions by clicking on a teaching experience.</p>
 
 {% for post in site.teaching reversed %}
+  {% include archive-single.html %}
+{% endfor %}
+
+<h2>Experience as Teaching Assistant</h2>
+
+<p>I have written a brief description and reflection for each of the teaching experiences below. You can see these descriptions by clicking on a teaching experience.</p>
+
+{% for post in site.teaching_TA reversed %}
   {% include archive-single.html %}
 {% endfor %}

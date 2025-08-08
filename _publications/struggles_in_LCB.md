@@ -1,5 +1,5 @@
 ---
-title: "Needles in a Haystack: Student Struggles with Working on Large Code Bases"
+title: "(Best Paper Award) Needles in a Haystack: Student Struggles with Working on Large Code Bases"
 collection: publications
 permalink: /publication/struggles_in_LCB
 excerpt: 'excerpt'

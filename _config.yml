@@ -21,10 +21,10 @@ repository               : "anshulshah99/anshulshah99.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.jpg"
+  avatar           : "profile.png"
   name             : "Anshul Shah"
   pronouns         : "he/him"  
-  bio              : "Fourth-year PhD student at UC San Diego studying computing education."
+  bio              : "PhD Candidate at UC San Diego studying computing education."
   location         : "San Diego, CA"
   employer         : "University of California, San Diego"
   uri              : # URL
