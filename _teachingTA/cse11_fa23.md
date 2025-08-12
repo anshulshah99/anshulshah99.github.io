@@ -1,5 +1,5 @@
 ---
-title: "(Teaching Assistant) CSE11: Accelerated Introduction to Programming"
+title: "CSE11: Accelerated Introduction to Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/cse11_fa23

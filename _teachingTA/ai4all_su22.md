@@ -1,5 +1,5 @@
 ---
-title: "(Teaching Assistant) AI4All: Data Science in Python"
+title: "AI4All: Data Science in Python"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/ai4all_su22

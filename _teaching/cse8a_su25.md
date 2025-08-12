@@ -1,5 +1,5 @@
 ---
-title: "(Instructor of Record) CSE8A: Introduction to Programming"
+title: "CSE8A: Introduction to Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/cse8a_su25

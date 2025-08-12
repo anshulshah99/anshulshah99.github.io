@@ -1,5 +1,5 @@
 ---
-title: "(Teaching Assistant) CS101: Introduction to Programming"
+title: "CS101: Introduction to Programming"
 collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/cs101
