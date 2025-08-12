@@ -4,7 +4,7 @@ collection: teaching
 type: "Undergraduate course"
 permalink: /teaching/cse8a_su25
 venue: "UC San Diego, Computer Science and Engineering"
-term: Summer 25 (Upcoming)
+term: Summer 25
 date: 2025-07-30
 ---
 
