@@ -6,7 +6,7 @@ permalink: /awards/
 
 ## Best Paper Award, ICER 2025
 
-I received the "Best Paper" award for my paper titled "Needles in a Haystack: Student Struggles with Working on Large Code Bases" at the Conference on International Computing Education Researche (ICER) 2025.
+I received the "Best Paper" award for my paper titled "Needles in a Haystack: Student Struggles with Working on Large Code Bases" at the Conference on International Computing Education Research (ICER) 2025.
 
 
 ## Doctoral Award for Excellence in Teaching, 2025
