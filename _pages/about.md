@@ -13,4 +13,4 @@ As an instructor-of-record, I have taught 1) an upper-division software engineer
 
 In my free time, I love to surf. I learned to surf when I moved to San Diego in 2021 and fell in love with the activity. I try to surf everyday, usually at Scripps Pier in La Jolla. I even took a UCSD course to shape my own, custom surfboard!
 
-<b>In the 2025-2026 academic year, I am on the job market searching for tenure-track academic positions or industry research positions.</b>
+<b>In the 2025-2026 academic year, I am on the job market searching for postdoc positions, tenure-track academic positions, or industry research positions.</b>
